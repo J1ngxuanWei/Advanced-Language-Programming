@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>resources/ground.png</file>
+        <file>resources/play_ground.jpg</file>
+        <file>resources/start_ui.png</file>
+        <file>resources/hurt.png</file>
+        <file>resources/titl.png</file>
+        <file>resources/startbut_1.png</file>
+        <file>resources/startbut_2.png</file>
+        <file>resources/butt_1.png</file>
+        <file>resources/butt_2.png</file>
+        <file>resources/title.png</file>
+        <file>resources/coin.png</file>
+        <file>resources/feibiao.png</file>
+        <file>resources/feijian.png</file>
+        <file>resources/jump.png</file>
+        <file>resources/run_1.png</file>
+        <file>resources/run_2.png</file>
+        <file>resources/run_3.png</file>
+        <file>resources/run_4.png</file>
+        <file>resources/run_5.png</file>
+        <file>resources/death.png</file>
+        <file>resources/pause.png</file>
+        <file>resources/bullet.png</file>
+        <file>resources/jingzhi1.png</file>
+        <file>resources/jingzhi2.png</file>
+        <file>resources/jingzhi3.png</file>
+        <file>resources/jingzhi4.png</file>
+        <file>resources/pugong1.png</file>
+        <file>resources/pugong2.png</file>
+        <file>resources/jineng11.png</file>
+        <file>resources/jineng12.png</file>
+        <file>resources/jineng21.png</file>
+        <file>resources/jineng22.png</file>
+        <file>resources/pugong.png</file>
+        <file>resources/11.png</file>
+        <file>resources/12.png</file>
+        <file>resources/13.png</file>
+        <file>resources/14.png</file>
+        <file>resources/21.png</file>
+        <file>resources/22.png</file>
+        <file>resources/23.png</file>
+        <file>resources/24.png</file>
+        <file>resources/blood.png</file>
+    </qresource>
+    <qresource prefix="/sou">
+        <file>sound/coin.wav</file>
+        <file>sound/collision.wav</file>
+        <file>sound/jump.wav</file>
+        <file>sound/start.wav</file>
+        <file>sound/over.wav</file>
+    </qresource>
+</RCC>
